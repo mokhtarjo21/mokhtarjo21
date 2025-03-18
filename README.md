@@ -18,9 +18,7 @@
   <a href="https://linkedin.com/in/elmokhtar-ahmed" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/eslam-ayman" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
-  </a>
+ 
   
 </p>
 
